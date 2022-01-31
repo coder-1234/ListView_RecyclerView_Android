@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LISTS</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="icon">Icon</string>
+    <string name="go_to_recycler_view">Go to recycler view</string>
+    <string name="go_to_list_view">Go to List View</string>
+</resources>
